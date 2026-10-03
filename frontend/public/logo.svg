@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- VoltReserve Logo: Lightning bolt + charging plug -->
+  
+  <!-- Lightning bolt -->
+  <path d="M100 20L70 80H95L100 140L130 80H105L100 20Z" fill="#6FF0A0" stroke="#6FF0A0" stroke-width="2"/>
+  
+  <!-- Charging plug -->
+  <circle cx="100" cy="100" r="60" fill="none" stroke="#6FF0A0" stroke-width="2"/>
+  <rect x="90" y="85" width="20" height="30" rx="2" fill="#6FF0A0"/>
+  
+  <!-- Text -->
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#6FF0A0">
+    VoltReserve
+  </text>
+</svg>
